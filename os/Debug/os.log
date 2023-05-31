@@ -1,0 +1,9 @@
+﻿  igetput.c
+C:\Users\neu_h\Desktop\操作系统课设\os\os\igetput.c(32,31): warning C4013: “malloc”未定义；假设外部返回 int
+C:\Users\neu_h\Desktop\操作系统课设\os\os\igetput.c(57,1): warning C4033: “iput”必须返回值
+C:\Users\neu_h\Desktop\操作系统课设\os\os\igetput.c(72,11): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\neu_h\Desktop\操作系统课设\os\os\igetput.c(87,2): warning C4013: “free”未定义；假设外部返回 int
+C:\Users\neu_h\Desktop\操作系统课设\os\os\igetput.c(90,10): warning C4142: "balloc": 类型的良性重定义
+C:\Users\neu_h\Desktop\操作系统课设\os\os\filesys.h(179,21): message : 参见“balloc”的声明
+C:\Users\neu_h\Desktop\操作系统课设\os\os\igetput.c(90): warning C4716: “balloc”: 必须返回一个值
+  os.vcxproj -> C:\Users\neu_h\Desktop\操作系统课设\os\Debug\os.exe
