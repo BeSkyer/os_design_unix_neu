@@ -1,0 +1,191 @@
+﻿  access.c
+C:\Users\neu_h\Desktop\操作系统课设\os-another\filesys.h(1,1): warning C4828: 文件包含在偏移 0x1559 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+C:\Users\neu_h\Desktop\操作系统课设\os-another\access.c(34,1): warning C4102: “defualt”: 未引用的标签
+  ballfre.c
+C:\Users\neu_h\Desktop\操作系统课设\os-another\filesys.h(1,1): warning C4828: 文件包含在偏移 0x1559 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  close.c
+C:\Users\neu_h\Desktop\操作系统课设\os-another\filesys.h(1,1): warning C4828: 文件包含在偏移 0x1559 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  creat.c
+C:\Users\neu_h\Desktop\操作系统课设\os-another\filesys.h(1,1): warning C4828: 文件包含在偏移 0x1559 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+C:\Users\neu_h\Desktop\操作系统课设\os-another\creat.c(13,18): warning C4047: “!=”:“unsigned int”与“void *”的间接级别不同
+C:\Users\neu_h\Desktop\操作系统课设\os-another\creat.c(23,11): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\neu_h\Desktop\操作系统课设\os-another\creat.c(43,27): warning C4244: “=”: 从“unsigned short”转换到“char”，可能丢失数据
+C:\Users\neu_h\Desktop\操作系统课设\os-another\creat.c(74,23): warning C4244: “=”: 从“unsigned short”转换到“char”，可能丢失数据
+  delete.c
+C:\Users\neu_h\Desktop\操作系统课设\os-another\filesys.h(1,1): warning C4828: 文件包含在偏移 0x1559 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+C:\Users\neu_h\Desktop\操作系统课设\os-another\delete.c(10,21): warning C4047: “!=”:“unsigned int”与“void *”的间接级别不同
+  dir.c
+C:\Users\neu_h\Desktop\操作系统课设\os-another\filesys.h(1,1): warning C4828: 文件包含在偏移 0x1559 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+C:\Users\neu_h\Desktop\操作系统课设\os-another\dir.c(16,9): warning C4476: "printf": 格式说明符中的类型字段字符“D”未知
+C:\Users\neu_h\Desktop\操作系统课设\os-another\dir.c(16,33): warning C4474: printf: 格式字符串中传递的参数太多
+C:\Users\neu_h\Desktop\操作系统课设\os-another\dir.c(16,33): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+C:\Users\neu_h\Desktop\操作系统课设\os-another\dir.c(30,14): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\neu_h\Desktop\操作系统课设\os-another\dir.c(53,16): warning C4047: “!=”:“int”与“void *”的间接级别不同
+C:\Users\neu_h\Desktop\操作系统课设\os-another\dir.c(57,10): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+C:\Users\neu_h\Desktop\操作系统课设\os-another\dir.c(57,10): message : 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+C:\Users\neu_h\Desktop\操作系统课设\os-another\dir.c(57,10): message : 缺失的可变参数 1 为格式字符串“%s”所需
+C:\Users\neu_h\Desktop\操作系统课设\os-another\dir.c(62,2): warning C4033: “mkdir”必须返回值
+C:\Users\neu_h\Desktop\操作系统课设\os-another\dir.c(85,1): warning C4033: “mkdir”必须返回值
+C:\Users\neu_h\Desktop\操作系统课设\os-another\dir.c(71,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\neu_h\Desktop\操作系统课设\os-another\dir.c(73,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\neu_h\Desktop\操作系统课设\os-another\dir.c(95,18): warning C4047: “==”:“unsigned int”与“void *”的间接级别不同
+C:\Users\neu_h\Desktop\操作系统课设\os-another\dir.c(98,2): warning C4033: “chdir”必须返回值
+C:\Users\neu_h\Desktop\操作系统课设\os-another\dir.c(105,1): warning C4033: “chdir”必须返回值
+C:\Users\neu_h\Desktop\操作系统课设\os-another\dir.c(118,12): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\neu_h\Desktop\操作系统课设\os-another\dir.c(138,13): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\neu_h\Desktop\操作系统课设\os-another\dir.c(145,2): warning C4033: “chdir”必须返回值
+  FORMAT.C
+C:\Users\neu_h\Desktop\操作系统课设\os-another\filesys.h(1,1): warning C4828: 文件包含在偏移 0x1559 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+C:\Users\neu_h\Desktop\操作系统课设\os-another\FORMAT.C(46,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\neu_h\Desktop\操作系统课设\os-another\FORMAT.C(64,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\neu_h\Desktop\操作系统课设\os-another\FORMAT.C(86,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\neu_h\Desktop\操作系统课设\os-another\FORMAT.C(87,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\neu_h\Desktop\操作系统课设\os-another\FORMAT.C(105,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\neu_h\Desktop\操作系统课设\os-another\FORMAT.C(107,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\neu_h\Desktop\操作系统课设\os-another\FORMAT.C(109,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\neu_h\Desktop\操作系统课设\os-another\FORMAT.C(122,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\neu_h\Desktop\操作系统课设\os-another\FORMAT.C(124,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\neu_h\Desktop\操作系统课设\os-another\FORMAT.C(126,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\neu_h\Desktop\操作系统课设\os-another\FORMAT.C(148,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\neu_h\Desktop\操作系统课设\os-another\FORMAT.C(149,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  halt.c
+C:\Users\neu_h\Desktop\操作系统课设\os-another\filesys.h(1,1): warning C4828: 文件包含在偏移 0x1559 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+C:\Users\neu_h\Desktop\操作系统课设\os-another\halt.c(30,43): error C2027: 使用了未定义类型“filsys”
+C:\Users\neu_h\Desktop\操作系统课设\os-another\halt.c(30,35): message : 参见“filsys”的声明
+C:\Users\neu_h\Desktop\操作系统课设\os-another\halt.c(35,2): warning C4013: “exit”未定义；假设外部返回 int
+  iallfre.c
+C:\Users\neu_h\Desktop\操作系统课设\os-another\filesys.h(1,1): warning C4828: 文件包含在偏移 0x1559 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+C:\Users\neu_h\Desktop\操作系统课设\os-another\iallfre.c(17,35): warning C4018: “<=”: 有符号/无符号不匹配
+  igetput.c
+C:\Users\neu_h\Desktop\操作系统课设\os-another\filesys.h(1,1): warning C4828: 文件包含在偏移 0x1559 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+C:\Users\neu_h\Desktop\操作系统课设\os-another\igetput.c(32,31): warning C4013: “malloc”未定义；假设外部返回 int
+C:\Users\neu_h\Desktop\操作系统课设\os-another\igetput.c(32,61): warning C4312: “类型强制转换”: 从“int”转换到更大的“inode *”
+C:\Users\neu_h\Desktop\操作系统课设\os-another\igetput.c(57,1): warning C4033: “iput”必须返回值
+C:\Users\neu_h\Desktop\操作系统课设\os-another\igetput.c(72,11): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\neu_h\Desktop\操作系统课设\os-another\igetput.c(87,2): warning C4013: “free”未定义；假设外部返回 int
+  install.c
+C:\Users\neu_h\Desktop\操作系统课设\os-another\filesys.h(1,1): warning C4828: 文件包含在偏移 0x1559 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+C:\Users\neu_h\Desktop\操作系统课设\os-another\install.c(14,2): warning C4013: “exit”未定义；假设外部返回 int
+C:\Users\neu_h\Desktop\操作系统课设\os-another\install.c(18,40): error C2027: 使用了未定义类型“filsys”
+C:\Users\neu_h\Desktop\操作系统课设\os-another\install.c(18,33): message : 参见“filsys”的声明
+C:\Users\neu_h\Desktop\操作系统课设\os-another\install.c(10,6): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\neu_h\Desktop\操作系统课设\os-another\install.c(44,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  log.c
+C:\Users\neu_h\Desktop\操作系统课设\os-another\filesys.h(1,1): warning C4828: 文件包含在偏移 0x1559 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+C:\Users\neu_h\Desktop\操作系统课设\os-another\log.c(11,27): warning C4013: “strcmp”未定义；假设外部返回 int
+C:\Users\neu_h\Desktop\操作系统课设\os-another\log.c(49,13): warning C4047: “return”:“int”与“void *”的间接级别不同
+  main.c
+C:\Users\neu_h\Desktop\操作系统课设\os-another\filesys.h(1,1): warning C4828: 文件包含在偏移 0x1559 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+C:\Users\neu_h\Desktop\操作系统课设\os-another\main.c(54,7): warning C4013: “strcmp”未定义；假设外部返回 int
+C:\Users\neu_h\Desktop\操作系统课设\os-another\main.c(36,27): warning C4101: “login_password”: 未引用的局部变量
+C:\Users\neu_h\Desktop\操作系统课设\os-another\main.c(39,7): warning C4101: “cmd”: 未引用的局部变量
+C:\Users\neu_h\Desktop\操作系统课设\os-another\main.c(36,7): warning C4101: “login_name”: 未引用的局部变量
+  name.c
+C:\Users\neu_h\Desktop\操作系统课设\os-another\filesys.h(1,1): warning C4828: 文件包含在偏移 0x1559 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+C:\Users\neu_h\Desktop\操作系统课设\os-another\name.c(14,13): warning C4047: “return”:“unsigned int”与“void *”的间接级别不同
+C:\Users\neu_h\Desktop\操作系统课设\os-another\name.c(35,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  open.c
+C:\Users\neu_h\Desktop\操作系统课设\os-another\filesys.h(1,1): warning C4828: 文件包含在偏移 0x1559 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+C:\Users\neu_h\Desktop\操作系统课设\os-another\open.c(13,21): warning C4047: “!=”:“unsigned int”与“void *”的间接级别不同
+C:\Users\neu_h\Desktop\操作系统课设\os-another\open.c(16,12): warning C4047: “return”:“unsigned short”与“void *”的间接级别不同
+C:\Users\neu_h\Desktop\操作系统课设\os-another\open.c(23,12): warning C4047: “return”:“unsigned short”与“void *”的间接级别不同
+C:\Users\neu_h\Desktop\操作系统课设\os-another\open.c(32,12): warning C4047: “return”:“unsigned short”与“void *”的间接级别不同
+C:\Users\neu_h\Desktop\操作系统课设\os-another\open.c(35,21): warning C4244: “=”: 从“unsigned short”转换到“char”，可能丢失数据
+C:\Users\neu_h\Desktop\操作系统课设\os-another\open.c(49,12): warning C4047: “return”:“unsigned short”与“void *”的间接级别不同
+C:\Users\neu_h\Desktop\操作系统课设\os-another\open.c(55,12): warning C4018: “<”: 有符号/无符号不匹配
+  rdwt.c
+C:\Users\neu_h\Desktop\操作系统课设\os-another\filesys.h(1,1): warning C4828: 文件包含在偏移 0x1559 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+C:\Users\neu_h\Desktop\操作系统课设\os-another\rdwt.c(16,13): error C2079: “passwd”使用未定义的 struct“pwd”
+C:\Users\neu_h\Desktop\操作系统课设\os-another\rdwt.c(33,9): error C2109: 下标要求数组或指针类型
+C:\Users\neu_h\Desktop\操作系统课设\os-another\rdwt.c(33,32): error C2109: 下标要求数组或指针类型
+C:\Users\neu_h\Desktop\操作系统课设\os-another\rdwt.c(34,16): error C2109: 下标要求数组或指针类型
+C:\Users\neu_h\Desktop\操作系统课设\os-another\rdwt.c(34,1): error C2198: “strcpy”: 用于调用的参数太少
+C:\Users\neu_h\Desktop\操作系统课设\os-another\rdwt.c(35,9): error C2109: 下标要求数组或指针类型
+C:\Users\neu_h\Desktop\操作系统课设\os-another\rdwt.c(35,32): error C2109: 下标要求数组或指针类型
+C:\Users\neu_h\Desktop\操作系统课设\os-another\rdwt.c(36,16): error C2109: 下标要求数组或指针类型
+C:\Users\neu_h\Desktop\操作系统课设\os-another\rdwt.c(36,1): error C2198: “strcpy”: 用于调用的参数太少
+C:\Users\neu_h\Desktop\操作系统课设\os-another\rdwt.c(37,9): error C2109: 下标要求数组或指针类型
+C:\Users\neu_h\Desktop\操作系统课设\os-another\rdwt.c(37,32): error C2109: 下标要求数组或指针类型
+C:\Users\neu_h\Desktop\操作系统课设\os-another\rdwt.c(38,16): error C2109: 下标要求数组或指针类型
+C:\Users\neu_h\Desktop\操作系统课设\os-another\rdwt.c(38,1): error C2198: “strcpy”: 用于调用的参数太少
+C:\Users\neu_h\Desktop\操作系统课设\os-another\rdwt.c(39,9): error C2109: 下标要求数组或指针类型
+C:\Users\neu_h\Desktop\操作系统课设\os-another\rdwt.c(39,32): error C2109: 下标要求数组或指针类型
+C:\Users\neu_h\Desktop\操作系统课设\os-another\rdwt.c(40,16): error C2109: 下标要求数组或指针类型
+C:\Users\neu_h\Desktop\操作系统课设\os-another\rdwt.c(40,1): error C2198: “strcpy”: 用于调用的参数太少
+C:\Users\neu_h\Desktop\操作系统课设\os-another\rdwt.c(41,9): error C2109: 下标要求数组或指针类型
+C:\Users\neu_h\Desktop\操作系统课设\os-another\rdwt.c(41,32): error C2109: 下标要求数组或指针类型
+C:\Users\neu_h\Desktop\操作系统课设\os-another\rdwt.c(42,16): error C2109: 下标要求数组或指针类型
+C:\Users\neu_h\Desktop\操作系统课设\os-another\rdwt.c(42,1): error C2198: “strcpy”: 用于调用的参数太少
+C:\Users\neu_h\Desktop\操作系统课设\os-another\rdwt.c(81,11): error C2109: 下标要求数组或指针类型
+C:\Users\neu_h\Desktop\操作系统课设\os-another\rdwt.c(82,10): error C2109: 下标要求数组或指针类型
+C:\Users\neu_h\Desktop\操作系统课设\os-another\rdwt.c(83,17): error C2109: 下标要求数组或指针类型
+C:\Users\neu_h\Desktop\操作系统课设\os-another\rdwt.c(83,2): error C2198: “strcpy”: 用于调用的参数太少
+C:\Users\neu_h\Desktop\操作系统课设\os-another\rdwt.c(86,8): warning C4022: “fwrite”: 指针与实参 1 不匹配
+C:\Users\neu_h\Desktop\操作系统课设\os-another\rdwt.c(23,5): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\neu_h\Desktop\操作系统课设\os-another\rdwt.c(34,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\neu_h\Desktop\操作系统课设\os-another\rdwt.c(36,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\neu_h\Desktop\操作系统课设\os-another\rdwt.c(38,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\neu_h\Desktop\操作系统课设\os-another\rdwt.c(40,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\neu_h\Desktop\操作系统课设\os-another\rdwt.c(42,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\neu_h\Desktop\操作系统课设\os-another\rdwt.c(52,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\neu_h\Desktop\操作系统课设\os-another\rdwt.c(54,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\neu_h\Desktop\操作系统课设\os-another\rdwt.c(56,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\neu_h\Desktop\操作系统课设\os-another\rdwt.c(66,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\neu_h\Desktop\操作系统课设\os-another\rdwt.c(68,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\neu_h\Desktop\操作系统课设\os-another\rdwt.c(70,1): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\neu_h\Desktop\操作系统课设\os-another\rdwt.c(83,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\neu_h\Desktop\操作系统课设\os-another\filesys.h(1,1): warning C4828: 文件包含在偏移 0x1559 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+C:\Users\neu_h\Desktop\操作系统课设\os-another\filesys.h(111,13): error C2011: “inode”:“struct”类型重定义
+C:\Users\neu_h\Desktop\操作系统课设\os-another\filesys.h(111,8): message : 参见“inode”的声明
+C:\Users\neu_h\Desktop\操作系统课设\os-another\filesys.h(128,15): error C2011: “dinode”:“struct”类型重定义
+C:\Users\neu_h\Desktop\操作系统课设\os-another\filesys.h(128,8): message : 参见“dinode”的声明
+C:\Users\neu_h\Desktop\操作系统课设\os-another\filesys.h(138,16): error C2011: “hinodei”:“struct”类型重定义
+C:\Users\neu_h\Desktop\操作系统课设\os-another\filesys.h(138,8): message : 参见“hinodei”的声明
+C:\Users\neu_h\Desktop\操作系统课设\os-another\filesys.h(144,16): error C2011: “filsysi”:“struct”类型重定义
+C:\Users\neu_h\Desktop\操作系统课设\os-another\filesys.h(144,8): message : 参见“filsysi”的声明
+C:\Users\neu_h\Desktop\操作系统课设\os-another\filesys.h(158,13): error C2011: “pwdi”:“struct”类型重定义
+C:\Users\neu_h\Desktop\操作系统课设\os-another\filesys.h(158,8): message : 参见“pwdi”的声明
+C:\Users\neu_h\Desktop\操作系统课设\os-another\filesys.h(166,15): error C2011: “direct”:“struct”类型重定义
+C:\Users\neu_h\Desktop\操作系统课设\os-another\filesys.h(166,8): message : 参见“direct”的声明
+C:\Users\neu_h\Desktop\操作系统课设\os-another\filesys.h(172,13): error C2011: “diri”:“struct”类型重定义
+C:\Users\neu_h\Desktop\操作系统课设\os-another\filesys.h(172,8): message : 参见“diri”的声明
+C:\Users\neu_h\Desktop\操作系统课设\os-another\filesys.h(178,13): error C2011: “file”:“struct”类型重定义
+C:\Users\neu_h\Desktop\操作系统课设\os-another\filesys.h(178,8): message : 参见“file”的声明
+C:\Users\neu_h\Desktop\操作系统课设\os-another\filesys.h(186,14): error C2011: “useri”:“struct”类型重定义
+C:\Users\neu_h\Desktop\操作系统课设\os-another\filesys.h(186,8): message : 参见“useri”的声明
+C:\Users\neu_h\Desktop\操作系统课设\os-another\rdwt.c(151,11): warning C4047: “函数”:“FILE *”与“int”的间接级别不同
+C:\Users\neu_h\Desktop\操作系统课设\os-another\rdwt.c(151,9): warning C4024: “fseek”: 形参和实参 1 的类型不同
+C:\Users\neu_h\Desktop\操作系统课设\os-another\rdwt.c(152,24): warning C4047: “函数”:“FILE *”与“int”的间接级别不同
+C:\Users\neu_h\Desktop\操作系统课设\os-another\rdwt.c(152,22): warning C4024: “fread”: 形参和实参 4 的类型不同
+C:\Users\neu_h\Desktop\操作系统课设\os-another\rdwt.c(155,10): warning C4047: “函数”:“FILE *”与“int”的间接级别不同
+C:\Users\neu_h\Desktop\操作系统课设\os-another\rdwt.c(155,8): warning C4024: “fseek”: 形参和实参 1 的类型不同
+C:\Users\neu_h\Desktop\操作系统课设\os-another\rdwt.c(156,40): warning C4047: “函数”:“FILE *”与“int”的间接级别不同
+C:\Users\neu_h\Desktop\操作系统课设\os-another\rdwt.c(156,38): warning C4024: “fread”: 形参和实参 4 的类型不同
+C:\Users\neu_h\Desktop\操作系统课设\os-another\rdwt.c(159,12): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\neu_h\Desktop\操作系统课设\os-another\rdwt.c(161,12): warning C4047: “函数”:“FILE *”与“int”的间接级别不同
+C:\Users\neu_h\Desktop\操作系统课设\os-another\rdwt.c(161,10): warning C4024: “fseek”: 形参和实参 1 的类型不同
+C:\Users\neu_h\Desktop\操作系统课设\os-another\rdwt.c(162,31): warning C4047: “函数”:“FILE *”与“int”的间接级别不同
+C:\Users\neu_h\Desktop\操作系统课设\os-another\rdwt.c(162,29): warning C4024: “fread”: 形参和实参 4 的类型不同
+C:\Users\neu_h\Desktop\操作系统课设\os-another\rdwt.c(168,10): warning C4047: “函数”:“FILE *”与“int”的间接级别不同
+C:\Users\neu_h\Desktop\操作系统课设\os-another\rdwt.c(168,8): warning C4024: “fseek”: 形参和实参 1 的类型不同
+C:\Users\neu_h\Desktop\操作系统课设\os-another\rdwt.c(169,31): warning C4047: “函数”:“FILE *”与“int”的间接级别不同
+C:\Users\neu_h\Desktop\操作系统课设\os-another\rdwt.c(169,29): warning C4024: “fread”: 形参和实参 4 的类型不同
+C:\Users\neu_h\Desktop\操作系统课设\os-another\rdwt.c(198,12): warning C4047: “函数”:“FILE *”与“int”的间接级别不同
+C:\Users\neu_h\Desktop\操作系统课设\os-another\rdwt.c(198,10): warning C4024: “fseek”: 形参和实参 1 的类型不同
+C:\Users\neu_h\Desktop\操作系统课设\os-another\rdwt.c(199,26): warning C4047: “函数”:“FILE *”与“int”的间接级别不同
+C:\Users\neu_h\Desktop\操作系统课设\os-another\rdwt.c(199,24): warning C4024: “fwrite”: 形参和实参 4 的类型不同
+C:\Users\neu_h\Desktop\操作系统课设\os-another\rdwt.c(203,11): warning C4047: “函数”:“FILE *”与“int”的间接级别不同
+C:\Users\neu_h\Desktop\操作系统课设\os-another\rdwt.c(203,9): warning C4024: “fseek”: 形参和实参 1 的类型不同
+C:\Users\neu_h\Desktop\操作系统课设\os-another\rdwt.c(204,44): warning C4047: “函数”:“FILE *”与“int”的间接级别不同
+C:\Users\neu_h\Desktop\操作系统课设\os-another\rdwt.c(204,42): warning C4024: “fwrite”: 形参和实参 4 的类型不同
+C:\Users\neu_h\Desktop\操作系统课设\os-another\rdwt.c(206,13): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\neu_h\Desktop\操作系统课设\os-another\rdwt.c(209,12): warning C4047: “函数”:“FILE *”与“int”的间接级别不同
+C:\Users\neu_h\Desktop\操作系统课设\os-another\rdwt.c(209,9): warning C4024: “fseek”: 形参和实参 1 的类型不同
+C:\Users\neu_h\Desktop\操作系统课设\os-another\rdwt.c(210,35): warning C4047: “函数”:“FILE *”与“int”的间接级别不同
+C:\Users\neu_h\Desktop\操作系统课设\os-another\rdwt.c(210,33): warning C4024: “fwrite”: 形参和实参 4 的类型不同
+C:\Users\neu_h\Desktop\操作系统课设\os-another\rdwt.c(215,12): warning C4047: “函数”:“FILE *”与“int”的间接级别不同
+C:\Users\neu_h\Desktop\操作系统课设\os-another\rdwt.c(215,9): warning C4024: “fseek”: 形参和实参 1 的类型不同
+C:\Users\neu_h\Desktop\操作系统课设\os-another\rdwt.c(216,34): warning C4047: “函数”:“FILE *”与“int”的间接级别不同
+C:\Users\neu_h\Desktop\操作系统课设\os-another\rdwt.c(216,32): warning C4024: “fwrite”: 形参和实参 4 的类型不同
+  正在生成代码...
+C:\Users\neu_h\Desktop\操作系统课设\os-another\access.c(37): warning C4715: “access”: 不是所有的控件路径都返回值
