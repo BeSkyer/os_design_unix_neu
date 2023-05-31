@@ -1,0 +1,11 @@
+﻿  main.c
+C:\Users\neu_h\Desktop\操作系统课设\os\os\main.c(36,7): warning C4013: “strcmp”未定义；假设外部返回 int
+C:\Users\neu_h\Desktop\操作系统课设\os\os\main.c(22,27): warning C4101: “login_password”: 未引用的局部变量
+C:\Users\neu_h\Desktop\操作系统课设\os\os\main.c(20,17): warning C4101: “bhy_fd1”: 未引用的局部变量
+C:\Users\neu_h\Desktop\操作系统课设\os\os\main.c(19,33): warning C4101: “ab_fd3”: 未引用的局部变量
+C:\Users\neu_h\Desktop\操作系统课设\os\os\main.c(22,7): warning C4101: “login_name”: 未引用的局部变量
+C:\Users\neu_h\Desktop\操作系统课设\os\os\main.c(21,8): warning C4101: “buf”: 未引用的局部变量
+C:\Users\neu_h\Desktop\操作系统课设\os\os\main.c(19,25): warning C4101: “ab_fd2”: 未引用的局部变量
+C:\Users\neu_h\Desktop\操作系统课设\os\os\main.c(19,17): warning C4101: “ab_fd1”: 未引用的局部变量
+C:\Users\neu_h\Desktop\操作系统课设\os\os\main.c(19,41): warning C4101: “ab_fd4”: 未引用的局部变量
+  os.vcxproj -> C:\Users\neu_h\Desktop\操作系统课设\os\Debug\os.exe
