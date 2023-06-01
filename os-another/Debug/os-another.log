@@ -1,0 +1,4 @@
+﻿  fnaccess.c
+C:\Users\neu_h\Desktop\操作系统课设\os-another\fnaccess.c(22,17): warning C4047: “==”:“int”与“void *”的间接级别不同
+C:\Users\neu_h\Desktop\操作系统课设\os-another\fnaccess.c(17,9): warning C4101: “j”: 未引用的局部变量
+  os-another.vcxproj -> C:\Users\neu_h\Desktop\操作系统课设\os-another\Debug\os-another.exe
