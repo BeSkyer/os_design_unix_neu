@@ -1,0 +1,10 @@
+﻿  buffer_input.c
+  main.c
+C:\Users\neu_h\Desktop\操作系统课设\os-another\main.c(60,26): warning C4013: “strlen”未定义；假设外部返回 int
+C:\Users\neu_h\Desktop\操作系统课设\os-another\main.c(69,17): warning C4098: “main”:“void”函数返回值
+C:\Users\neu_h\Desktop\操作系统课设\os-another\main.c(72,17): warning C4013: “strcmp”未定义；假设外部返回 int
+C:\Users\neu_h\Desktop\操作系统课设\os-another\main.c(36,30): warning C4101: “login_password”: 未引用的局部变量
+C:\Users\neu_h\Desktop\操作系统课设\os-another\main.c(39,10): warning C4101: “cmd”: 未引用的局部变量
+C:\Users\neu_h\Desktop\操作系统课设\os-another\main.c(36,10): warning C4101: “login_name”: 未引用的局部变量
+  正在生成代码...
+  os-another.vcxproj -> C:\Users\neu_h\Desktop\操作系统课设\os-another\Debug\os-another.exe
