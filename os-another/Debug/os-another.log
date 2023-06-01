@@ -1,0 +1,17 @@
+﻿  main.c
+C:\Users\neu_h\Desktop\操作系统课设\os-another\main.c(72,17): warning C4013: “strlen”未定义；假设外部返回 int
+C:\Users\neu_h\Desktop\操作系统课设\os-another\main.c(81,5): warning C4098: “main”:“void”函数返回值
+C:\Users\neu_h\Desktop\操作系统课设\os-another\main.c(84,8): warning C4013: “strcmp”未定义；假设外部返回 int
+C:\Users\neu_h\Desktop\操作系统课设\os-another\main.c(109,4): warning C4013: “memset”未定义；假设外部返回 int
+C:\Users\neu_h\Desktop\操作系统课设\os-another\main.c(135,6): warning C4013: “strcpy”未定义；假设外部返回 int
+C:\Users\neu_h\Desktop\操作系统课设\os-another\main.c(183,70): warning C4047: “函数”:“int”与“inode *”的间接级别不同
+C:\Users\neu_h\Desktop\操作系统课设\os-another\main.c(183,62): warning C4024: “iget”: 形参和实参 1 的类型不同
+C:\Users\neu_h\Desktop\操作系统课设\os-another\main.c(260,70): warning C4047: “函数”:“int”与“inode *”的间接级别不同
+C:\Users\neu_h\Desktop\操作系统课设\os-another\main.c(260,62): warning C4024: “iget”: 形参和实参 1 的类型不同
+C:\Users\neu_h\Desktop\操作系统课设\os-another\main.c(351,70): warning C4047: “函数”:“int”与“inode *”的间接级别不同
+C:\Users\neu_h\Desktop\操作系统课设\os-another\main.c(351,62): warning C4024: “iget”: 形参和实参 1 的类型不同
+C:\Users\neu_h\Desktop\操作系统课设\os-another\main.c(361,70): warning C4047: “函数”:“int”与“inode *”的间接级别不同
+C:\Users\neu_h\Desktop\操作系统课设\os-another\main.c(361,62): warning C4024: “iget”: 形参和实参 1 的类型不同
+C:\Users\neu_h\Desktop\操作系统课设\os-another\main.c(346,9): warning C4101: “tfn”: 未引用的局部变量
+C:\Users\neu_h\Desktop\操作系统课设\os-another\main.c(395,12): warning C4101: “j”: 未引用的局部变量
+  os-another.vcxproj -> C:\Users\neu_h\Desktop\操作系统课设\os-another\Debug\os-another.exe
