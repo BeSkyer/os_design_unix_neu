@@ -1,0 +1,3 @@
+﻿  name.c
+C:\Users\neu_h\Desktop\操作系统课设\os-another\name.c(30,13): warning C4047: “return”:“unsigned int”与“void *”的间接级别不同
+  os-another.vcxproj -> C:\Users\neu_h\Desktop\操作系统课设\os-another\Debug\os-another.exe
