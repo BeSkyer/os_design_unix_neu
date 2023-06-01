@@ -1,0 +1,14 @@
+﻿  delete.c
+C:\Users\neu_h\Desktop\操作系统课设\os-another\delete.c(13,22): warning C4047: “!=”:“unsigned int”与“void *”的间接级别不同
+C:\Users\neu_h\Desktop\操作系统课设\os-another\delete.c(18,3): warning C4033: “deletefd”必须返回值
+C:\Users\neu_h\Desktop\操作系统课设\os-another\delete.c(24,3): warning C4033: “deletefd”必须返回值
+C:\Users\neu_h\Desktop\操作系统课设\os-another\delete.c(39,40): warning C4033: “deletefd”必须返回值
+C:\Users\neu_h\Desktop\操作系统课设\os-another\delete.c(49,5): warning C4033: “deletefd”必须返回值
+C:\Users\neu_h\Desktop\操作系统课设\os-another\delete.c(57,12): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+C:\Users\neu_h\Desktop\操作系统课设\os-another\delete.c(57,12): message : 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+C:\Users\neu_h\Desktop\操作系统课设\os-another\delete.c(57,12): message : 缺失的可变参数 1 为格式字符串“%s”所需
+C:\Users\neu_h\Desktop\操作系统课设\os-another\delete.c(59,5): warning C4033: “deletefd”必须返回值
+C:\Users\neu_h\Desktop\操作系统课设\os-another\delete.c(66,16): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\neu_h\Desktop\操作系统课设\os-another\delete.c(69,14): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\neu_h\Desktop\操作系统课设\os-another\delete.c(71,3): warning C4013: “strcpy”未定义；假设外部返回 int
+  os-another.vcxproj -> C:\Users\neu_h\Desktop\操作系统课设\os-another\Debug\os-another.exe
